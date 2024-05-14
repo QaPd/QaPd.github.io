@@ -1,2 +1,2 @@
 # Unblocked Portal
-[W Games](https://pages.github.com/).
+[W Games](https://qapd.github.io/w-games.github.io/).
