@@ -1,4 +1,7 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+#Unblocked Gateway
+[W Games](https://qapd.github.io/w-games.github.io/).
+[Sz Games](https://sz-games.github.io/).
+<svg fill="none" viewBox="0 0 600 300" width="1200" height="600" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -41,7 +44,7 @@
       </style>
 
       <div class="container">
-        <h1>Welcome To Unblocked Gateway[Sz Games](https://sz-games.github.io/). <div class="hi">👋</div></h1>
+        <h1>Welcome To Unblocked Gateway<div class="hi">👋</div></h1>
       </div>
     </div>
   </foreignObject>
