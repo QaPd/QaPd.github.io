@@ -30,7 +30,7 @@ twitter_username: Anonymous
 github_username:  QaPd
 
 # Build settings
-theme: minima
+theme: hacker
 plugins:
   - jekyll-feed
 
