@@ -30,7 +30,6 @@
   <div class="container">
     <h1>Welcome To Unblocked Gateway<div class="hi">👋</div></h1>
   </div>
-</div>
 
 [<img alt="Mario 64" width="200px" src="https://raw.githubusercontent.com/QaPd/QaPd.github.io/main/64.jpeg" />](https://sz-games.github.io/Games2/sm64/)
 
