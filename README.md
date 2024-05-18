@@ -32,6 +32,7 @@
   </div>
 </div>
 
-[<img src="https://raw.githubusercontent.com/QaPd/QaPd.github.io/main/64.jpeg" width=24% height=24%>](https://sz-games.github.io/Games2/sm64/)
+[<img alt="Mario 64" width="200px" src="https://raw.githubusercontent.com/QaPd/QaPd.github.io/main/64.jpeg" />](https://sz-games.github.io/Games2/sm64/)
 
-[<img src="https://raw.githubusercontent.com/QaPd/QaPd.github.io/main/fnaf1.jpeg" width=24% height=24%>](https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/)
+
+[<img alt="Mario 64" width="200px" src="https://raw.githubusercontent.com/QaPd/QaPd.github.io/main/fnaf1.jpeg" />](https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/)
