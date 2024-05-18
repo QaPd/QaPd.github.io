@@ -33,7 +33,7 @@ github_username:  QaPd
 theme: minimal
 plugins:
   - jekyll-feed
-body {
+body {:
  background-color: #3a3d3d
 }
 
