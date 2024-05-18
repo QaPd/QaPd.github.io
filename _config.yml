@@ -33,9 +33,6 @@ github_username:  QaPd
 theme: minimal
 plugins:
   - jekyll-feed
-body {:
- background-color: #3a3d3d
-}
 
 # Exclude from processing.
 # The following items will not be processed, by default.
