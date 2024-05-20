@@ -12,4 +12,13 @@
 
 # ROM Downloads
 
-# [<img alt="Mario Deluxe" width="200px" src="https://raw.githubusercontent.com/QaPd/QaPd.github.io/main/Super-Mario-Bros.-Deluxe.png" />](https://github.com/vbaemulator/GBC-Roms/raw/main/Super%20Mario%20Bros.%20Deluxe%20(Europe)%20(Rev%202).zip) [<img alt="Urbz" width="200px" src="https://raw.githubusercontent.com/QaPd/QaPd.github.io/main/the-urbz-sims-in-the-city.png" />](https://github.com/vbaemulator/GBA-Roms/raw/main/Urbz%2C%20The%20-%20Sims%20in%20the%20City%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl).zip)
+[<img alt="Mario Deluxe" width="200px" src="https://raw.githubusercontent.com/QaPd/QaPd.github.io/main/Super-Mario-Bros.-Deluxe.png" />](https://github.com/vbaemulator/GBC-Roms/raw/main/Super%20Mario%20Bros.%20Deluxe%20(Europe)%20(Rev%202).zip) [<img alt="Urbz" width="200px" src="https://raw.githubusercontent.com/QaPd/QaPd.github.io/main/the-urbz-sims-in-the-city.png" />](https://github.com/vbaemulator/GBA-Roms/raw/main/Urbz%2C%20The%20-%20Sims%20in%20the%20City%20(USA%2C%20Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl).zip)
+
+# Emulator BIOS
+
+# [<img alt="GBA" width="200px" src="" />](https://github.com/QaPd/QaPd.github.io/raw/main/gba_bios.zip)
+
+
+Credits: SZ Games, visualboyadvance.org, github.com
+
+Made By: Hayden Wolf
